@@ -4,6 +4,8 @@
 - Bản ổn định hiện tại: none.
 
 *Bản 0.2.0:
+- Thêm các thông báo chuẩn đoán lỗi.
+*Bản 0.2.0:
 - Sku được định nghĩa dùng snippet variable bào gồm:{mime} =  loại tài nguyên của sản phẩm (svg hoặc png), {day} = ngày hiện tại, {month} = tháng hiện tại , {year} = 2 số cuối năm hiện tại, {autoNumber} = số tự động tăng bắt đầu từ 1 và sẽ được reset khi sang ngày mới.
 - Tải và lấy ảnh từ file zip của sản phẩm, phân loại sản phẩm (png hoặc svg).
 - Lưu file zip vào thư mục được chọn trước đó.
