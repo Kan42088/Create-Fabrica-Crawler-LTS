@@ -6,8 +6,10 @@
 *Bản 0.2.2:
 - Thêm các thông báo chuẩn đoán lỗi.
 - Chỉnh sửa cơ chế lấy file zip kèm dữ liệu ảnh và phân loại mime.
+
 *Bản 0.2.1:
 - Thêm các thông báo chuẩn đoán lỗi.
+
 *Bản 0.2.0:
 - Sku được định nghĩa dùng snippet variable bào gồm:{mime} =  loại tài nguyên của sản phẩm (svg hoặc png), {day} = ngày hiện tại, {month} = tháng hiện tại , {year} = 2 số cuối năm hiện tại, {autonumber} = số tự động tăng bắt đầu từ 1 và sẽ được reset khi sang ngày mới.
 - Tải và lấy ảnh từ file zip của sản phẩm, phân loại sản phẩm (png hoặc svg).
