@@ -3,6 +3,11 @@
 - Phần mềm là file rar trong file được tải về.
 - Bản ổn định hiện tại: none.
 
+*Bản 0.3.1:
+- Thêm tùy chọn tải sản phẩm lên Trello.
+- Tự động phân loại list sẽ được tải lên Trello theo loại mime.
+- Custome title thẻ, mô tả theo snippet variable bao gồm: {mime} =  loại tài nguyên của sản phẩm (svg hoặc png), {day} = ngày hiện tại, {month} = tháng hiện tại , {year} = 2 số cuối năm hiện tại, {autonumber} = số tự động tăng bắt đầu từ 1 và sẽ được reset khi sang ngày mới, {title} = tên sản phẩm, {tags} = các tag được lấy trong sản phẩm.
+
 *Bản 0.2.2:
 - Thêm các thông báo chuẩn đoán lỗi.
 - Chỉnh sửa cơ chế lấy file zip kèm dữ liệu ảnh và phân loại mime.
