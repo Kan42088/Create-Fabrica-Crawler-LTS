@@ -1,8 +1,20 @@
 # Create-Fabrica-Crawler-LTS
 *Note: 
 - Phần mềm là file rar trong file được tải về.
-- Bản ổn định hiện tại: none.
 - Kiểm tra chrome và chrome driver phải cùng bản và là bản mới nhất để tránh bị dính lỗi capcha của Creative Fabrica.
+- Bản ổn định hiện tại: 0.2.2.
+
+*Bản 1.0.0:
+- Hướng dẫn sử dụng phần mềm và logo phần mềm.
+
+*Bản 0.5.1:
+- Cào nhiều sản phẩm theo các link chứa trong file exel.
+- Kiểm tra và khóa các nút trong quá trình cào sản phẩm.
+
+*Bản 0.4.2:
+- Đổi tên các file trong thư mục zip theo tên của sản phẩm.
+- Lưu lại các trường còn thiếu cho lần chạy tiếp theo.
+- Bổ sung chức năng cho nút dừng tiến trình.
 
 *Bản 0.3.1:
 - Thêm tùy chọn tải sản phẩm lên Trello.
