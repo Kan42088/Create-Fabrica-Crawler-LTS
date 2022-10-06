@@ -2,6 +2,7 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Bản ổn định hiện tại: none.
+- Kiểm tra chrome và chrome driver phải cùng bản và là bản mới nhất để tránh bị dính lỗi capcha của Creative Fabrica.
 
 *Bản 0.3.1:
 - Thêm tùy chọn tải sản phẩm lên Trello.
