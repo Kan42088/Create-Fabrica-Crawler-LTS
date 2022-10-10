@@ -9,12 +9,12 @@
 
 *Bản 0.5.1:
 - Cào nhiều sản phẩm theo các link chứa trong file exel.
-- Kiểm tra và khóa các nút trong quá trình cào sản phẩm.
+- Bổ sung chức năng cho nút dừng tiến trình.
 
 *Bản 0.4.2:
 - Đổi tên các file trong thư mục zip theo tên của sản phẩm.
 - Lưu lại các trường còn thiếu cho lần chạy tiếp theo.
-- Bổ sung chức năng cho nút dừng tiến trình.
+- Kiểm tra và khóa các nút trong quá trình cào sản phẩm.
 
 *Bản 0.3.1:
 - Thêm tùy chọn tải sản phẩm lên Trello.
