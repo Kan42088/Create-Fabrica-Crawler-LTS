@@ -7,11 +7,12 @@
 *Bản 1.0.0:
 - Hướng dẫn sử dụng phần mềm và logo phần mềm.
 
-*Bản 0.5.1:
+*Bản 0.6.1:
 - Cào nhiều sản phẩm theo các link chứa trong file exel.
 - Bổ sung chức năng cho nút dừng tiến trình.
 
-*Bản 0.4.2:
+*Bản 0.5.2:
+- Đăng nhập lần đầu để xác nhận mã từ email.
 - Đổi tên các file trong thư mục zip theo tên của sản phẩm.
 - Lưu lại các trường còn thiếu cho lần chạy tiếp theo.
 - Kiểm tra và khóa các nút trong quá trình cào sản phẩm.
