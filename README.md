@@ -2,7 +2,7 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Kiểm tra chrome và chrome driver phải cùng bản và là bản mới nhất để tránh bị dính lỗi capcha của Creative Fabrica.
-- Bản ổn định hiện tại: 0.6.1.
+- Bản ổn định hiện tại: v1.0.0 & v1.2.0.
 
 *Bản 1.2.0:
 - Cho phép hiển thị/ẩn quá trình cào file từ CF.
