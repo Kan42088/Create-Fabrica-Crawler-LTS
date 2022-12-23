@@ -4,6 +4,10 @@
 - Kiểm tra chrome và chrome driver phải cùng bản và là bản mới nhất để tránh bị dính lỗi capcha của Creative Fabrica.
 - Bản ổn định hiện tại: 0.6.1.
 
+*Bản 1.2.0:
+- Cho phép hiển thị/ẩn quá trình cào file từ CF.
+- Chỉnh sửa logic cào: Thay thế quá trình đăng nhập cho từng sản phẩm thành 1 lần đăng nhập.
+
 *Bản 1.0.0:
 - Hướng dẫn sử dụng phần mềm và logo phần mềm.
 
