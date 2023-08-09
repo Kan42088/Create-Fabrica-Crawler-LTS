@@ -1,5 +1,6 @@
-# Create-Fabrica-Crawler-LTS
+# Create-Fabrica-Crawler-EOS 
 *Note: 
+- TOOL ĐÃ DỪNG HỖ TRỢ CẬP NHẬT, ĐỂ SỬ DỤNG CÁC BẢN ĐƯỢC HỖ TRỢ VUI LÒNG SỬ DỤNG TẠI: https://github.com/QuangTungTB/TwoBros-Tools-System
 - Phần mềm là file rar trong file được tải về.
 - Kiểm tra chrome và chrome driver phải cùng bản và là bản mới nhất để tránh bị dính lỗi capcha của Creative Fabrica.
 - Bản ổn định hiện tại: v1.0.0 & v1.2.0.
